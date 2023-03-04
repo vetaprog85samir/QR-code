@@ -2,14 +2,14 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 
-h1{
+h3{
     font-weight: 700;
-    font-size: 25px;
+    font-size: 15px;
     text-align: center;
     color: hsl(218, 44%, 22%);
 }
 
-p{
+span{
     font-weight: 500;
     font-size: 15px;
     text-align: center;
